@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">PopularMovieStage1</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_popular">Popular</string>
+    <string name="action_Highest">Highest</string>
+    <string name="movie_detais">Movie Details</string>
+    <string name="average_rating">Average Ratings</string>
+    <string name="release_date">Release Date</string>
+
+    <string name="pref_sort_order_label">Sort Order</string>
+
+
+
+    <string name="pref_popular_key" translatable="false">Popular</string>
+
+
+    <string name="pref_popular_default" translatable="false">popular</string>
+
+
+    <string name="pref_top_rated_key" translatable="false">TopRated</string>
+
+
+    <string name="pref_top_rated_default" translatable="false">top_rated</string>
+
+
+</resources>
